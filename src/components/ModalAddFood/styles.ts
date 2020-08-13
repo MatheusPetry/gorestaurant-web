@@ -13,6 +13,13 @@ export const Form = styled(Unform)`
     margin-bottom: 40px;
   }
 
+  h2 {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 36px;
+    padding: 16px 24px;
+  }
+
   button {
     margin-top: 48px;
     align-self: flex-end;
@@ -31,6 +38,9 @@ export const Form = styled(Unform)`
 
     .text {
       padding: 16px 24px;
+      @media (max-width: 358px) {
+        display: none;
+      }
     }
 
     .icon {
