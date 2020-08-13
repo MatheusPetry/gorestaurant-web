@@ -6,7 +6,12 @@
 Go Restaurant
 </h1>
 
-<p align="center">Projeto de um painel de administração para resutarantes controlarem os pratos do estabelecimento. Com o foco de treinar CRUD, TypeScript e isolamento de componentes onde cada um tem uma função específica.</p>
+<p align="center">Projeto de um painel de administração para resutarantes controlarem os pratos do estabelecimento. Com o foco de treinar CRUD, TypeScript e isolamento de componentes onde cada um tem uma função específica.
+<br>
+<br>
+Projeto do Bootcamp GoStack da Rocketseat.
+
+</p>
 
 
 <p align="center">
@@ -46,3 +51,4 @@ Go Restaurant
 
 Este projeto está licenciado sob a Licença MIT - consulte a página [LICENSE](https://opensource.org/licenses/MIT) para obter detalhes.
 
+Feito com 💜 por <a href="https://www.linkedin.com/in/matheus-petry-428727185/" target="blank">Matheus</a>.
