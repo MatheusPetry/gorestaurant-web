@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="assets/logo.svg" alt="Go Restaurant" width="120">
+  <img src="images/logo.svg" alt="Go Restaurant" width="120">
 <br>
 <br>
 Go Restaurant
@@ -17,10 +17,10 @@ Go Restaurant
 
 <div>
   <p>Adicionando prato
-  <img src="./assets/addfood.gif" alt="demo" height="425"> </p>
+  <img src="images/addfood.gif" alt="demo" height="425"> </p>
 
   <p>Layout responsivo
-  <img src="./assets/responsive.gif" alt="demo" height="425"></p>
+  <img src="images/responsive.gif" alt="demo" height="425"></p>
 </div>
 
 ## Recursos usados:
